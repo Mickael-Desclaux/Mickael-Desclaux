@@ -30,9 +30,9 @@ I'm excited to:
 - Share and expand my knowledge
 
 ## Get in Touch 📫
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/micka%C3%ABl-desclaux-arramond/)])
+- 💼 [LinkedIn]([https://www.linkedin.com/in/micka%C3%ABl-desclaux-arramond/])
 - 📧 [Email]([mickael.desclaux.arramond.emploi@gmail.com])
-- 🌐 [Portfolio]([(https://portfolio-mickael-desclaux-arramond.netlify.app/)])
+- 🌐 [Portfolio]([https://portfolio-mickael-desclaux-arramond.netlify.app/])
 
 ---
 *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - John Woods*
